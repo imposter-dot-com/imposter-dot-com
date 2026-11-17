@@ -6,7 +6,6 @@ swe student at CADT, co-Founder at **Motify**, and freelance developer with **SA
 **currently working on**
 - **motify** — building an ai-powered motion graphics generator for smes
 - **sayana studio** — shipping client web platforms and brand systems with a small crew of freelance developers
-- **ai & retrieval systems** — exploring data science pipelines, rag architectures, vector search, and information retrieval
 
 ---
 **stack**
@@ -46,4 +45,14 @@ swe student at CADT, co-Founder at **Motify**, and freelance developer with **SA
 </p>
 
 ---
-[Website](https://kaosodavann.dev) · [LinkedIn](https://linkedin.com/in/kao-sodavann-b4b173321/) · [Email](mailto:kaosodavann714@gmail.com)
+<p align="left"> talk to me
+  <a href="https://kaosodavann.dev">
+    <img src="https://cdn.simpleicons.org/safari/8b949e" height="18" alt="website" title="website" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kao-sodavann-b4b173321/">
+    <img src="https://cdn.simpleicons.org/linkedin/8b949e" height="18" alt="linkedin" title="linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaosodavann714@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/8b949e" height="18" alt="email" title="email" />
+  </a>
+</p>
