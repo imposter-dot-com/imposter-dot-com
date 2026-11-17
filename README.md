@@ -45,7 +45,7 @@ swe student at CADT, co-Founder at **Motify**, and freelance developer with **SA
 </p>
 
 ---
-<p align="left"> talk to me
+<p align="left">
   <a href="https://kaosodavann.dev">
     <img src="https://cdn.simpleicons.org/safari/8b949e" height="18" alt="website" title="website" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
