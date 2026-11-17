@@ -47,12 +47,12 @@ swe student at CADT, co-Founder at **Motify**, and freelance developer with **SA
 ---
 <p align="left">
   <a href="https://kaosodavann.dev">
-    <img src="https://cdn.simpleicons.org/safari/8b949e" height="18" alt="website" title="website" />
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" height="18" alt="website" title="website" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/kao-sodavann-b4b173321/">
-    <img src="https://cdn.simpleicons.org/linkedin/8b949e" height="18" alt="linkedin" title="linkedin" />
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%238b949e" height="18" alt="linkedin" title="linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kaosodavann714@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/8b949e" height="18" alt="email" title="email" />
+    <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e" height="18" alt="email" title="email" />
   </a>
 </p>
