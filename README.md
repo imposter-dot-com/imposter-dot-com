@@ -3,26 +3,40 @@
 Software Engineering student at CADT, Co-Founder at **Motify**, and freelance developer with **SAYANA Studio**. I build intuitive web applications, design systems, and developer tools from zero to launch.
 
 ---
+**currently working on**
+- **motify** — building an ai-powered motion graphics generator for smes
+- **sayana studio** — shipping client web platforms and brand systems with a small crew of freelance developers
+- **ai & retrieval systems** — exploring data science pipelines, rag architectures, vector search, and information retrieval
 
-**Currently Working On**
-- **Motify** — Building an AI-powered motion graphics generator for SMEs
-- **SAYANA Studio** — Shipping client web platforms and brand systems with a small crew of freelance developers
-- **AI & Retrieval Systems** — Exploring data science pipelines, RAG architectures, vector search, and information retrieval
-**Core Stack**
+---
+**stack**
 
+`frontend`
 <p align="left">
-  <img src="https://cdn.simpleicons.org/typescript/8b949e" height="22" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/8b949e" height="22" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/svelte/8b949e" height="22" alt="Svelte 5" title="Svelte 5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/astro/8b949e" height="22" alt="Astro" title="Astro" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" height="22" alt="Next.js" title="Next.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/8b949e" height="22" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/8b949e" height="22" alt="Flutter" title="Flutter" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="22" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/8b949e" height="22" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/8b949e" height="22" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/8b949e" height="22" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/8b949e" height="22" alt="Figma" title="Figma" />
+  <img src="https://cdn.simpleicons.org/typescript/8b949e" height="20" alt="typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/8b949e" height="20" alt="react" title="react" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/svelte/8b949e" height="20" alt="svelte 5" title="svelte 5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/astro/8b949e" height="20" alt="astro" title="astro" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" height="20" alt="next.js" title="next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/8b949e" height="20" alt="tailwind css" title="tailwind css" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/8b949e" height="20" alt="flutter" title="flutter" />
+</p>
+
+`backend & ai`
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="20" alt="node.js" title="node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/8b949e" height="20" alt="express" title="express" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/8b949e" height="20" alt="python" title="python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/8b949e" height="20" alt="fastapi" title="fastapi" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/8b949e" height="20" alt="langchain" title="langchain" />
+</p>
+
+`tools`
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/8b949e" height="20" alt="git" title="git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8b949e" height="20" alt="github" title="github" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/8b949e" height="20" alt="linux" title="linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/8b949e" height="20" alt="figma" title="figma" />
 </p>
 
 ---
