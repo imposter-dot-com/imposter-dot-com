@@ -25,9 +25,6 @@ swe student at CADT, co-founder at **Motify**, and freelance developer with **SA
 <p align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="20" alt="node.js" title="node.js" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/8b949e" height="20" alt="express" title="express" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/8b949e" height="20" alt="python" title="python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/8b949e" height="20" alt="fastapi" title="fastapi" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/8b949e" height="20" alt="langchain" title="langchain" />
 </p>
 
 `tools`
