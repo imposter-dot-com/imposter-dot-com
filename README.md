@@ -1,6 +1,6 @@
 ### hey there, i'm davann :D
 
-swe student at CADT, co-Founder at **Motify**, and freelance developer with **SAYANA Studio**. i build intuitive web applications, design systems, and developer tools from zero to launch. 
+swe student at CADT, co-founder at **Motify**, and freelance developer with **SAYANA Studio**. i build intuitive web applications, design systems, and developer tools from zero to launch. 
 
 ---
 **currently working on**
